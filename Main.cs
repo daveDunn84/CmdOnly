@@ -6,4 +6,6 @@ public static void Main(string[] args)
 	
 	// some comments
 	
+	Console.WriteLine("This should do it!");
+	
 }
