@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EyTaW3PGzoOWII637kUaf1WD1PvZgRnBdqs+XhXkNjsw/lIe8IRpTkhVXWsb21dqr66ML0icNgvefBBRSyQE+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david.dunn\\source\\repos\\GitTutorial\\GitTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david.dunn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
